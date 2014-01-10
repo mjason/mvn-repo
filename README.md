@@ -11,6 +11,6 @@ repositories {
 }
 
 dependencies {
-    compile "cn.glassx:NGDK:0.0.1@aar"
+    compile "cn.glassx:NGDK:0.0.2@aar"
 }
 ```
